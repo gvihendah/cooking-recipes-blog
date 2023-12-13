@@ -1,4 +1,25 @@
 h1 {
-color: brown;
+color: rgb(219, 138, 138);
+
+}
+P {
+    color: rgb(5, 14, 37)
+    
+    
+}
+.navbar1 {
+    text-align: justify;
+    padding-top: 30px;
+    background-color: rgb(162, 133, 104)
+    position: relative;
+    align-items: center;
+    border-right: blueviolet;
+    height: auto;
+    border: 10px ridge;
+    border-width: 10px 15px 5px 10px;
+}
+
+body {
+background-color: rgb(105, 90, 98)
 
 }
