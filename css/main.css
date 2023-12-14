@@ -6,6 +6,7 @@ P {
     color: rgb(5, 14, 37)
     
     
+    
 }
 .navbar1 {
     text-align: justify;
@@ -17,9 +18,12 @@ P {
     height: auto;
     border: 10px ridge;
     border-width: 10px 15px 5px 10px;
+    border-radius: 10px
+    
 }
 
 body {
 background-color: rgb(105, 90, 98)
+
 
 }
