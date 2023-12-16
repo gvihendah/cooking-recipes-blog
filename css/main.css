@@ -3,7 +3,8 @@ color: rgb(219, 138, 138);
 
 }
 P {
-    color: rgb(5, 14, 37)
+    color: rgb(5, 14, 37);
+    text-shadow: 3px;
     
     
     
@@ -11,19 +12,40 @@ P {
 .navbar1 {
     text-align: justify;
     padding-top: 30px;
-    background-color: rgb(162, 133, 104)
-    position: relative;
-    align-items: center;
+    background: linear-gradient(blue white);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
     border-right: blueviolet;
     height: auto;
     border: 10px ridge;
     border-width: 10px 15px 5px 10px;
-    border-radius: 10px
+    border-radius: 10px;
+    margin: 60px 10px 20px 5px;
+    background-origin: content-box;
+    text-decoration-line: overline;
+    text-decoration-color: aquamarine;
+    font-size: 20px;
+    text-shadow: 4px;
+    line-height: 20px;
     
+
+    
+    
+  
+}
+
+.navbar1:hover {
+    font-size: 2em;
+    color: rgb(226, 128, 43);
+
 }
 
 body {
-background-color: rgb(105, 90, 98)
+background:radial-gradient(rgb(56, 56, 117)gt, white, orange);
 
 
+}
+
+form {
+    
 }
